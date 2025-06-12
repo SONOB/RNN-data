@@ -1,1 +1,1 @@
-# RNN-data
+# RNN-data 파일입니다
